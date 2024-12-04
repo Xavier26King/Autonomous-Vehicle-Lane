@@ -1,0 +1,12 @@
+names:
+- lane
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: lane-detection-2-qpx6p
+  url: https://universe.roboflow.com/autonomous-umjvo/lane-detection-2-qpx6p/dataset/3
+  version: 3
+  workspace: autonomous-umjvo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
